@@ -1,0 +1,17 @@
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\USER\source\tasklar\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date

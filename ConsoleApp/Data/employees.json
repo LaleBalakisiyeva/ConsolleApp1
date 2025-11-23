@@ -1,0 +1,21 @@
+[
+  {
+    "HireDate": "2025-11-23T01:55:58.5776645-08:00",
+    "WorkInfo": null,
+    "Department": "Itdev",
+    "Salary": 6000.0,
+    "ID": 2,
+    "Name": "Xedice"
+  },
+  {
+    "HireDate": "2025-11-23T01:56:35.1129945-08:00",
+    "WorkInfo": {
+      "OfficeNumber": "1",
+      "Floor": 3
+    },
+    "Department": "fornt",
+    "Salary": 7000.0,
+    "ID": 3,
+    "Name": "lale"
+  }
+]
