@@ -45,7 +45,7 @@ namespace ConsoleApp.Models
             }
             set
             {
-                if (value == null)
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new NameEmptyException("Bos ola bilmez");
                 }
