@@ -18,7 +18,7 @@ namespace ConsoleApp.Models
            this.Floor = floor;
 
 
-            if (officenumber==null)
+            if (string.IsNullOrWhiteSpace(officenumber))
             {
                 throw new InvalidWorkInfoException("OfficeNumber bos ola bilmez");
             }
